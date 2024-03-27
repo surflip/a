@@ -1,3 +1,4 @@
+# create by HBHFG
 cd ~
 pkg install git -y
 pkg install nodejs -y
